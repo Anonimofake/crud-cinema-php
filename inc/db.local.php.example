@@ -1,0 +1,7 @@
+<?php
+return [
+    "host" => "localhost",
+    "user" => "your_user",
+    "pass" => "your_password",
+    "name" => "cinema",
+];
